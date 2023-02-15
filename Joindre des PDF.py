@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 
-"""Ce script utilise la bibliothèque PyMuPDF pour fusionner les fichiers PDF dans le répertoire courant. Les fichiers PDF sont triés par ordre alphabétique avant d'être fusionnés. Il faut installer le module PyMuPDF avec la commande pip3 install PyMuPDF"""
+"""Ce script utilise la bibliothèque PyMuPDF pour fusionner les fichiers PDF dans le répertoire courant. 
+Les fichiers PDF sont triés par ordre alphabétique avant d'être fusionnés. 
+Il faut installer le module PyMuPDF avec la commande pip3 install PyMuPDF"""
 
 import os
 import fitz
