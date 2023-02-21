@@ -20,7 +20,7 @@ Placez le script dans le même répertoire que les fichiers PDF que vous voulez 
 
 Exécutez le script dans un terminal avec la commande suivante :
 
-**python3 "Joindre_des_PDF.py"**
+**python3 "Joindre des PDF.py"**
 
 Testé dans Linux Mint 21
 
