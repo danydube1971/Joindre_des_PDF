@@ -13,3 +13,14 @@ et filtre les fichiers qui ont l'extension .pdf en utilisant une compréhension 
 
 Ainsi, à la fin de l'exécution du script, tous les fichiers PDF dans le répertoire courant auront été fusionnés en un seul fichier PDF 
 nommé "output.join.pdf".
+
+# Comment utiliser ce script
+
+Placez le script dans le même répertoire que les fichiers PDF que vous voulez joindre.
+
+Exécutez le script dans un terminal avec la commande suivante :
+
+**python3 "Joindre_des_PDF.py"**
+
+Testé dans Linux Mint 21
+
